@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Nir, I'm an experimental geophysicsit at the University of Pennsylvania (in Philadelphia), where I'm a postdoctoral fellow. I hold a an BSc and MSc in Geology and Environmental Sciences from Ben-Gurion University (Israel), and a PhD in Earth and Planetary Sciences from Brown Univeristy (US). My main research focus is on rock friction and deformation, in relation to earthquakes. I always look to learn more and so I'm involved in numerous projects. Check out my ongoing and recent studies below! 
 
-You can reach out to me via email at: 
+You can reach out to me via email at:<br> 
 **nbadt(at)upenn(dot)sas(dot)edu**  or  **nirzbadt(at)gmail(dot)com**
 
 The role of interfacial bonding on rock and mineral friction
