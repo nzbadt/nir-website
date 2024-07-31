@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my CV [here](files/Nir_Badt_CV.pdf)
+You can download my CV [here](Nir_Badt_CV.pdf)
