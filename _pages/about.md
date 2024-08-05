@@ -12,7 +12,7 @@ Hello! My name is Nir, I'm an experimental geophysicist at the University of Pen
 My main research focus is on rock friction which is fundamental for our understanding of how earthquakes initiate, grow and arrest. In addition I also study the deformation of minerals at the microscale, exploring the micromechanical controls on anelastic and plastic deformation. I always look to learn more and so I'm involved in numerous projects, from ice rheology to the mechanical behavior of teeth. Check out my ongoing reserach projects below! 
 
 You can reach out to me via email:<br> 
-**nbadt@upenn.sas.edu**  or  **nirzbadt@gmail.com**
+**nbadt@sas.upenn.edu**  or  **nirzbadt@gmail.com**
 
 
 The role of interfacial bonding on rock and mineral friction
