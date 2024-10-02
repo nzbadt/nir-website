@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Nir, I'm an experimental geophysicist at the University of Pennsylvania (in Philadelphia), where I'm a postdoctoral fellow. I hold a an BSc and MSc in Geology and Environmental Sciences from Ben-Gurion University (Israel), and a PhD in Earth and Planetary Sciences from Brown Univeristy. 
 
-My main research focus is on rock friction which is fundamental for our understanding of how earthquakes initiate, grow and arrest. In addition I also study the deformation of minerals at the microscale, exploring the micromechanical controls on anelastic and plastic deformation. I always look to learn more and so I'm involved in numerous projects, from ice rheology to the mechanical behavior of teeth. Check out my ongoing reserach projects below! 
+My main research focus is on rock friction which is fundamental for our understanding of how earthquakes initiate, grow and arrest. In addition I also study the deformation of minerals at the microscale, exploring the micromechanical controls on anelastic and plastic deformation. I always look to learn more and so I'm involved in numerous projects, from ice rheology to the mechanical behavior of teeth. Check out my ongoing research projects below! 
 
 You can reach out to me via email:<br> 
 **nbadt@sas.upenn.edu**  or  **nirzbadt@gmail.com**
@@ -27,6 +27,8 @@ Intra-crystal viscoelasticity
 The viscoelastic response of Earth materials is tied to interesting phenomena, such as seismic wave attenuation, post-glacial rebound and tidal dissipation of planetary bodies. Experimentalists typically quantify a material's viscoelastic behavior through forced oscillations, where the sample is subjected to harmonic forcing which results in a dynamic response of the material. If there's a time lag between the forcing and the resultant strain, then the material behaves as a viscoelastic solid. These experiments require high temperature and confining pressure conditions to activate viscoelastic behavior in rocks and minerals, and so few data exists. I show that by adapting forced oscillations to the nanoindenter a viscoelasticity can be easily and accurately quantified for soft materials such as halite and PMMA, and also for hard materials like olivine and quartz over long time-periods.
 ![SI_ol_per300s](https://github.com/nzbadt/nzbadt.github.io/assets/96509780/73f9d366-c66e-46f6-b22e-1f7afddfd304)
 This plot shows the forced oscillation method from the naoindenter on a single-crystal of olivine with an oscillation period of 300 seconds.
+
+Check out the pre-prints of two papers related to this project [here](https://arxiv.org/abs/2406.14707) and [here](https://arxiv.org/abs/2407.03533). Both papers have been submitted to [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/journal/23335084).
 
 
 Mechanical quantification of mice teeth - model for studying TBCK syndrome
