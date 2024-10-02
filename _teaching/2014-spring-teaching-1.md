@@ -1,11 +1,20 @@
 ---
-title: "Natural Disasters and Disturbances"
+title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University of Pennsylvania, Dept. of Earth and Environmental Sciences"
-date: 2024
-location: "Philadelphia, PA"
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-I teach 72 students in this undergraduate-level course. We learn the physical mechanisms of natural disasters sucha s earthquakes and hurricanes, and their societal implications, including estimating risks.
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
