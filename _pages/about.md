@@ -41,6 +41,6 @@ Studying the effects of fault roughness on earthquake rupture with thermal press
 ======
 This project is a collaboration with [Dr. Yuval Tal](https://ben-gurion.theopenscholar.com/yuval-tal), from Ben-Gurion University, who developed the model. We explore the combined effects of dynamic frictional weakening by thermal pressurization with realistic fault roughness geometries. We're in the final stages of writing a manuscript based on our findings that will be submitted to JGR: Solid Earth soon! In the meantime you can find a snippet of that work in the figure below.
 <p align="right">
-<![TP_roughness](images/TP_roughness.png){: width="50%"}>
+![TP_roughness](images/TP_roughness.png){: width="50%"}
 </p>
 In this figure you can see the three different roughness levels considered here (a): perfectly smooth br = 0; rough br = 0.004; and very rough br = 0.008. The calculated effective normal stress (b) and temperature (c) along the rough faults show that both are highly heterogenous and that temperatures can exceed the melting point of typical crustal rock (~800 deg. C), even when thermal pressurization is highly effective. 
