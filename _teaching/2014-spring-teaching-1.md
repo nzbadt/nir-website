@@ -3,7 +3,7 @@ title: "Natural Disasters and Disturbances"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Universityof Pennsylvania, Earth and Environmental Sciences"
+venue: "University of Pennsylvania, Dept. of Earth and Environmental Sciences"
 date: 2024
 location: "Philadelphia, PA"
 ---
