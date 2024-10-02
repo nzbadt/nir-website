@@ -40,3 +40,4 @@ Here's an example of a mouse's jawbone (mandible) showing the incisor, the red b
 Studying the effects of fault roughness on earthquake rupture with thermal pressurization
 ======
 This project is a collaboration with [Dr. Yuval Tal](https://ben-gurion.theopenscholar.com/yuval-tal) from Ben-Gurion University. We explore the combined effects of dynamic frictional weakening by thermal pressurization with realistic fault roughness geometries. We're in the final stages of writing a manuscript based on our findings that will be submitted to JGR: Solid Earth soon! In the meantime you can find a snippet of that work in the figure below.
+![TP_roughness]()
